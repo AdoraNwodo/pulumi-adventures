@@ -1,4 +1,4 @@
-# Pulumi Policy as Code Demo with an Azure Serverless Application
+# Pulumi Python Azure Serverless Application
 
 ## Overview
 This repository contains a demonstration of how to use Pulumi for deploying a serverless application to Azure. The project includes Infrastructure as Code (IaC) components. It deploys the following resources:
