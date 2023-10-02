@@ -1,0 +1,6 @@
+config:
+  azure-native:location: WestUS
+  pulumi-adventures:appPath: ./app
+  pulumi-adventures:errorDocument: error.html
+  pulumi-adventures:indexDocument: index.html
+  pulumi-adventures:sitePath: ./www
