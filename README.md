@@ -25,8 +25,8 @@ Follow these steps to set up and deploy the serverless application:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/AdoraNwodo/policy-as-code-demo.git
-    cd policy-as-code-demo
+    git clone https://github.com/AdoraNwodo/pulumi-adventures.git
+    cd pulumi-adventures
     ```
 
 2.  **Initialize Pulumi Project:**
